@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right top, #746bd1, #7771d5, #7a77da, #7e7cde, #8182e2, #967fdf, #aa7cdb, #bb79d6, #da6bbf, #ef60a2, #fa5b81, #fb5f5f);
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+img{
+    
+    width: 250px;
+}
+h1{
+    text-align: center;
+}
