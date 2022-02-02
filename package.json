@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "portnpm1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  "dev": "nodemon app.js -e js,hbs" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu974l/portnpm1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu974l/portnpm1/issues"
+  },
+  "homepage": "https://github.com/manu974l/portnpm1#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
